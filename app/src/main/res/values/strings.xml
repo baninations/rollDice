@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Birthday_Message">Happy Birthday</string>
+    <string name= "Shqip" translatable="false">Urime Ditelindja</string>
+    <string name="Deutsch" translatable="false">Alles gute zum Geburtstag</string>
+    <string name="roll">Roll</string>
+</resources>
